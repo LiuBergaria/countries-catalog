@@ -1,0 +1,27 @@
+diff --git a/node_modules/@types/react-native/LaunchScreen.d.ts b/node_modules/@types/react-native/LaunchScreen.d.ts
+deleted file mode 100755
+index df7f97c..0000000
+--- a/node_modules/@types/react-native/LaunchScreen.d.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-// Adds the JSX elements used in the launch screen.
+-
+-declare module 'react-native/Libraries/NewAppScreen' {
+-    export const Header: any;
+-    export const LearnMoreLinks: any;
+-    export const Colors: any;
+-    export const DebugInstructions: any;
+-    export const ReloadInstructions: any;
+-}
+diff --git a/node_modules/@types/react-native/index.d.ts b/node_modules/@types/react-native/index.d.ts
+index e8f8c2e..127a38e 100755
+--- a/node_modules/@types/react-native/index.d.ts
++++ b/node_modules/@types/react-native/index.d.ts
+@@ -60,7 +60,6 @@
+ /// <reference path="legacy-properties.d.ts" />
+ /// <reference path="BatchedBridge.d.ts" />
+ /// <reference path="Devtools.d.ts" />
+-/// <reference path="LaunchScreen.d.ts" />
+ 
+ import * as React from 'react';
+ 
