@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Footer correctly 1`] = `
+<View
+  style={
+    Object {
+      "paddingBottom": 0,
+    }
+  }
+>
+  <Text
+    onPress={[Function]}
+    style={
+      Object {
+        "color": "#a7a7a7",
+        "fontSize": 14,
+        "marginVertical": 12,
+        "textAlign": "center",
+      }
+    }
+  >
+    Provided by https://restcountries.com/
+  </Text>
+</View>
+`;
+
+exports[`renders Footer loading correctly 1`] = `
+<View
+  style={
+    Object {
+      "paddingBottom": 0,
+    }
+  }
+>
+  <ActivityIndicator
+    color="#a7a7a7"
+    size="large"
+    style={
+      Object {
+        "marginVertical": 8,
+      }
+    }
+  />
+  <Text
+    onPress={[Function]}
+    style={
+      Object {
+        "color": "#a7a7a7",
+        "fontSize": 14,
+        "marginVertical": 12,
+        "textAlign": "center",
+      }
+    }
+  >
+    Provided by https://restcountries.com/
+  </Text>
+</View>
+`;

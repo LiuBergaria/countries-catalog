@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Header correctly 1`] = `
+<View
+  style={
+    Object {
+      "padding": 16,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "position": "relative",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontSize": 28,
+          "fontWeight": "bold",
+          "textAlign": "center",
+        }
+      }
+    >
+      Countries List
+    </Text>
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#a7a7a7",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    with infinite scroll
+  </Text>
+</View>
+`;
+
+exports[`renders Header loading correctly 1`] = `
+<View
+  style={
+    Object {
+      "padding": 16,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "position": "relative",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "fontSize": 28,
+          "fontWeight": "bold",
+          "textAlign": "center",
+        }
+      }
+    >
+      Countries List
+    </Text>
+    <ActivityIndicator
+      color="#a7a7a7"
+      style={
+        Object {
+          "left": 24,
+          "position": "absolute",
+        }
+      }
+    />
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#a7a7a7",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    with infinite scroll
+  </Text>
+</View>
+`;

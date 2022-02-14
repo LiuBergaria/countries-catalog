@@ -1,0 +1,1086 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders CountryItem correctly 1`] = `
+Array [
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/se.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Sweden
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/al.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Albania
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/vu.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Vanuatu
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/mu.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Mauritius
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/gb.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      United Kingdom
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/pt.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Portugal
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/ci.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Ivory Coast
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/ge.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Georgia
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/bt.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Bhutan
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/na.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Namibia
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/nl.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Netherlands
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/uy.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Uruguay
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/be.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Belgium
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/gg.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Guernsey
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/vi.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      United States Virgin Islands
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/ug.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Uganda
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/li.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Liechtenstein
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/gw.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Guinea-Bissau
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/kr.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      South Korea
+    </Text>
+  </View>,
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "height": 60,
+        "paddingHorizontal": 24,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Object {
+            "height": 30,
+            "width": 60,
+          },
+        ]
+      }
+    >
+      <FastImageView
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://flagcdn.com/w320/cu.png",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "#ffffff",
+          "flex": 1,
+          "fontSize": 16,
+          "marginLeft": 16,
+        }
+      }
+    >
+      Cuba
+    </Text>
+  </View>,
+]
+`;

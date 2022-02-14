@@ -1,4 +1,4 @@
-export interface ICountryAPI {
+export interface IAPICountry {
   name: Name;
   tld?: string[];
   cca2: string;
