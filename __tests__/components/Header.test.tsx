@@ -1,15 +1,15 @@
 import React from 'react';
-import renderer from 'react-test-renderer';
 import Header from 'src/components/Header';
+import { render } from '@testing-library/react-native';
 
 test('renders Header correctly', () => {
-  const tree = renderer.create(<Header isLoading={false} />).toJSON();
+  const { toJSON } = render(<Header isLoading={false} />);
 
-  expect(tree).toMatchSnapshot();
+  expect(toJSON()).toMatchSnapshot();
 });
 
 test('renders Header loading correctly', () => {
-  const tree = renderer.create(<Header isLoading={true} />).toJSON();
+  const { toJSON } = render(<Header isLoading={true} />);
 
-  expect(tree).toMatchSnapshot();
+  expect(toJSON()).toMatchSnapshot();
 });

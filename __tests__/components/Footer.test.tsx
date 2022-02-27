@@ -1,5 +1,5 @@
 import React from 'react';
-import renderer from 'react-test-renderer';
+import { render } from '@testing-library/react-native';
 import Footer from 'src/components/Footer';
 
 jest.mock('react-native-safe-area-context', () => ({
@@ -7,13 +7,13 @@ jest.mock('react-native-safe-area-context', () => ({
 }));
 
 test('renders Footer correctly', () => {
-  const tree = renderer.create(<Footer isLoading={false} />).toJSON();
+  const { toJSON } = render(<Footer isLoading={false} />);
 
-  expect(tree).toMatchSnapshot();
+  expect(toJSON()).toMatchSnapshot();
 });
 
 test('renders Footer loading correctly', () => {
-  const tree = renderer.create(<Footer isLoading={true} />).toJSON();
+  const { toJSON } = render(<Footer isLoading={true} />);
 
-  expect(tree).toMatchSnapshot();
+  expect(toJSON()).toMatchSnapshot();
 });

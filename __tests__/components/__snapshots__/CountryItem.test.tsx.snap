@@ -41,6 +41,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -52,6 +53,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Sweden
     </Text>
@@ -95,6 +97,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -106,6 +109,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Albania
     </Text>
@@ -149,6 +153,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -160,6 +165,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Vanuatu
     </Text>
@@ -203,6 +209,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -214,6 +221,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Mauritius
     </Text>
@@ -257,6 +265,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -268,6 +277,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       United Kingdom
     </Text>
@@ -311,6 +321,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -322,6 +333,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Portugal
     </Text>
@@ -365,6 +377,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -376,6 +389,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Ivory Coast
     </Text>
@@ -419,6 +433,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -430,6 +445,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Georgia
     </Text>
@@ -473,6 +489,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -484,6 +501,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Bhutan
     </Text>
@@ -527,6 +545,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -538,6 +557,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Namibia
     </Text>
@@ -581,6 +601,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -592,6 +613,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Netherlands
     </Text>
@@ -635,6 +657,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -646,6 +669,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Uruguay
     </Text>
@@ -689,6 +713,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -700,6 +725,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Belgium
     </Text>
@@ -743,6 +769,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -754,6 +781,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Guernsey
     </Text>
@@ -797,6 +825,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -808,6 +837,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       United States Virgin Islands
     </Text>
@@ -851,6 +881,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -862,6 +893,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Uganda
     </Text>
@@ -905,6 +937,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -916,6 +949,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Liechtenstein
     </Text>
@@ -959,6 +993,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -970,6 +1005,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Guinea-Bissau
     </Text>
@@ -1013,6 +1049,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -1024,6 +1061,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       South Korea
     </Text>
@@ -1067,6 +1105,7 @@ Array [
             "top": 0,
           }
         }
+        testID="country-item-image"
       />
     </View>
     <Text
@@ -1078,6 +1117,7 @@ Array [
           "marginLeft": 16,
         }
       }
+      testID="country-item-name"
     >
       Cuba
     </Text>

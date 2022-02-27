@@ -17,8 +17,11 @@ const CountryItem = ({ data }: IProps): JSX.Element => {
         style={styles.flag}
         source={{ uri: data.flag }}
         resizeMode={'contain'}
+        testID="country-item-image"
       />
-      <Text style={styles.name}>{data.name}</Text>
+      <Text testID="country-item-name" style={styles.name}>
+        {data.name}
+      </Text>
     </View>
   );
 };
