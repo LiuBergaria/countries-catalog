@@ -1,10 +1,10 @@
-# Countries Catalogue
+# Countries Catalog
 
 An react native application example that display a list of all countries (using `https://restcountries.com/v3.1`) with their name and flag.
 
 | iOS | Android |
 |-----|---------|
-| <img src="https://github.com/LiuBergaria/countries-catalogue/blob/master/docs/preview/ios.png?raw=true" title="iOS" /> | <img src="https://github.com/LiuBergaria/countries-catalogue/blob/master/docs/preview/android.png?raw=true" title="Android" /> |
+| <img src="https://github.com/LiuBergaria/countries-catalog/blob/master/docs/preview/ios.png?raw=true" title="iOS" /> | <img src="https://github.com/LiuBergaria/countries-catalog/blob/master/docs/preview/android.png?raw=true" title="Android" /> |
 
 ## Features
 
