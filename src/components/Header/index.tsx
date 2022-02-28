@@ -16,7 +16,11 @@ const Header = ({ isLoading }: IProps): JSX.Element => {
         <Text style={styles.title}>Countries List</Text>
 
         {isLoading && (
-          <ActivityIndicator style={styles.loader} color={Colors.lightGrey} />
+          <ActivityIndicator
+            testID="header-loading-spinner"
+            style={styles.loader}
+            color={Colors.lightGrey}
+          />
         )}
       </View>
 

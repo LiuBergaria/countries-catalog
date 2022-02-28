@@ -12,7 +12,7 @@ interface IProps {
 
 const CountryItem = ({ data }: IProps): JSX.Element => {
   return (
-    <View style={styles.container}>
+    <View testID="country-item" style={styles.container}>
       <FastImage
         style={styles.flag}
         source={{ uri: data.flag }}

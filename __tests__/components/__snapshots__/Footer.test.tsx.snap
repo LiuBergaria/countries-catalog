@@ -40,6 +40,7 @@ exports[`renders Footer loading correctly 1`] = `
         "marginVertical": 8,
       }
     }
+    testID="footer-loading-spinner"
   />
   <Text
     onPress={[Function]}

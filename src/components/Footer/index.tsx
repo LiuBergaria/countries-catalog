@@ -18,6 +18,7 @@ const Footer = ({ isLoading }: IProps): JSX.Element => {
     <View style={{ paddingBottom: insets.bottom }}>
       {isLoading && (
         <ActivityIndicator
+          testID="footer-loading-spinner"
           style={styles.loader}
           size={'large'}
           color={Colors.lightGrey}

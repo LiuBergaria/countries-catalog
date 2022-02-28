@@ -35,6 +35,7 @@ const Countries = () => {
       <Header isLoading={isLoading} />
 
       <FlatList
+        testID="countries-list"
         refreshing={isLoading}
         indicatorStyle={'white'}
         style={styles.list}
