@@ -5,6 +5,7 @@ import React, {
   useRef,
   useState,
 } from 'react';
+
 import { ICountryItem } from 'src/components/CountryItem/types';
 import { getCountries } from 'src/services/api/countries';
 

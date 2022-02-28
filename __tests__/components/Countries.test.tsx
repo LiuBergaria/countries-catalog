@@ -1,4 +1,5 @@
 import React from 'react';
+
 import '@testing-library/react-native/dont-cleanup-after-each';
 import {
   fireEvent,
@@ -7,12 +8,13 @@ import {
   cleanup,
   waitFor,
 } from '@testing-library/react-native';
-import { CountriesDataProvider } from 'src/contexts/CountriesData';
-import Countries from 'src/components/Countries';
-import { SafeAreaProvider } from 'react-native-safe-area-context';
-import { CountryItemsConstants } from 'src/components/CountryItem/styles';
-import { mockedAPICountries } from 'src/mocks/APICountries';
 import MockAdapter from 'axios-mock-adapter';
+import { SafeAreaProvider } from 'react-native-safe-area-context';
+
+import Countries from 'src/components/Countries';
+import { CountryItemsConstants } from 'src/components/CountryItem/styles';
+import { CountriesDataProvider } from 'src/contexts/CountriesData';
+import { mockedAPICountries } from 'src/mocks/APICountries';
 import api from 'src/services/api/api';
 
 const flatListEndNativeEvent = {

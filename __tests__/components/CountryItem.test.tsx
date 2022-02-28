@@ -1,6 +1,8 @@
 import React from 'react';
-import CountryItem from 'src/components/CountryItem';
+
 import { render } from '@testing-library/react-native';
+
+import CountryItem from 'src/components/CountryItem';
 import { mockedCountryItems } from 'src/mocks/countriesItems';
 
 test('renders CountryItem correctly', () => {

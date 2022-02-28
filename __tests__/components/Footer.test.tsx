@@ -1,5 +1,7 @@
 import React from 'react';
+
 import { render } from '@testing-library/react-native';
+
 import Footer from 'src/components/Footer';
 
 jest.mock('react-native-safe-area-context', () => ({

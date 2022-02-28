@@ -26,6 +26,25 @@ module.exports = {
     'no-console': ['error', { allow: ['error', 'info', 'warn'] }],
     'prettier/prettier': 'error',
     'react-hooks/exhaustive-deps': 'error',
+    'import/order': [
+      'error',
+      {
+        groups: ['builtin', 'external', 'internal'],
+        pathGroups: [
+          {
+            pattern: 'react+(|-native)',
+            group: 'external',
+            position: 'before',
+          },
+        ],
+        pathGroupsExcludedImportTypes: ['react+(|-native)'],
+        'newlines-between': 'always',
+        alphabetize: {
+          order: 'asc',
+          caseInsensitive: true,
+        },
+      },
+    ],
   },
   overrides: [
     {

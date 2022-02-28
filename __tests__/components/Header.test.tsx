@@ -1,6 +1,8 @@
 import React from 'react';
-import Header from 'src/components/Header';
+
 import { render } from '@testing-library/react-native';
+
+import Header from 'src/components/Header';
 
 test('renders Header correctly', () => {
   const { toJSON } = render(<Header isLoading={false} />);
